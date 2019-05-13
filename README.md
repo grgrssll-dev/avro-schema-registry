@@ -1,3 +1,6 @@
+NOTE: this is a fork so I could pull request the original lib https://github.com/bencebalogh/avro-schema-registry
+please use that one.
+
 # avro-schema-registry
 
 Confluent Schema Registry implementation to easily serialize and deserialize kafka messages with only one peer depencency.
